@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Camilo H. Parada Rojas
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student in Plant Pathology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: NC State University
+  url: "https://www.ncsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
