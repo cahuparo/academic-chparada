@@ -12,5 +12,5 @@ nav_font = "Heebo"
 mono_font = "Fira Sans"
 
 # Font size
-font_size = "25"
-font_size_small = "14"
+font_size = "22"
+font_size_small = "16"
