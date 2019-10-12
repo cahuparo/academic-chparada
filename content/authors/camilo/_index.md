@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Plant and fungal genomics
-- Plant inmunity
+- Plant immunity
 - Cycling
 
 education:
