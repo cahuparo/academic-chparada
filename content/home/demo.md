@@ -51,23 +51,7 @@ subtitle = "Galeria"
 +++
 
 Just checking this out
-Welcome to the Academic Kickstart template!
 
-Follow our Getting Started and Page Builder guides to easily personalize the template and then add your own content.
+{{< figure library="true" src="image.jpg" title="This is a cool photo" lightbox="true" >}}
 
-For inspiration, check out the Markdown files which power the personal demo. The easiest way to publish your new site to the internet is with Netlify.
 
-View the documentation
-Ask a question
-Request a feature or report a bug
-Updating? View the Update Guide and Release Notes
-Support development of Academic:
-Donate a coffee
-Become a backer on Patreon
-Decorate your laptop or journal with an Academic sticker
-Wear the T-shirt
-{{% alert note %}} This homepage section is an example of adding elements to the Blank widget.
-
-Backgrounds can be applied to any section. Here, the background option is set give a color gradient.
-
-To remove this section, delete content/home/demo.md. {{% /alert %}}
