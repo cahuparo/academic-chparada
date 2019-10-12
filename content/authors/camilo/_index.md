@@ -4,7 +4,7 @@ name: Camilo H. Parada Rojas
 
 # Username (this should match the folder name)
 authors:
-- admin
+- camilo
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Plant and fungal genomics
+- Plant inmunity
+- Cycling
 
 education:
   courses:
