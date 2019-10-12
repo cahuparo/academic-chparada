@@ -4,18 +4,17 @@ author: Camilo Parada
 date: '2019-10-12'
 slug: Assembly
 categories:
-  - How to do?
   - example
 tags:
-  - How to do?
-  - OCIO!
+  - howtodo
+  - ocio
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "From PacBio"
-  focal_point: "Smart"
+  focal_point: "Bottom"
   preview_only: false
 ---
 
