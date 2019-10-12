@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Camilo is a PhD student at NC State University investigating sweetpotato genomes to identify R gene content.
+I am a PhD student in Plant Pathology at NC State University. My reseachr in plant pathology spans on pathogen population biology to plant and fungal genomics. I am passionated about tranlational sciene and trained in extension. I am currently working on identify the complete set of intracelular plant inmune receptors known as NLR genes in sweetpotato.
