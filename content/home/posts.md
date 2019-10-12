@@ -45,7 +45,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "How to do?"
-    tag = "How to do?"
+    tag = "howtodo"
   
   [[content.filter_button]]
     name = "En Español"
@@ -57,7 +57,7 @@ subtitle = ""
     
   [[content.filter_button]]
     name = "OCIO!"
-    tag = "Ocio"  
+    tag = "ocio"  
   
 [design]
   # Toggle between the various page layout types.
