@@ -6,27 +6,27 @@
 [[main]]
   name = "ABOUT ME"
   url = "#about"
-  weight = 60
+  weight = 10
 
 [[main]]
   name = "BLOG"
   url = "#posts"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "PROJECTS"
   url = "#projects"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "PUBLICATIONS"
   url = "#featured"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "CONTACT"
   url = "#contact"
-  weight = 70
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
