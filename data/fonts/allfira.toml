@@ -6,11 +6,11 @@ google_fonts = "Heebo:300,400,500|Fira+Sans:300,400,500|Source+Sans+Pro:300"
 # old main font: Fira+Sans 
 
 # Font families
-heading_font = "Heebo"
+heading_font = "Fira Sans"
 body_font = "Source Sans Pro"
-nav_font = "Fira Sans"
+nav_font = "Heebo"
 mono_font = "Fira Sans"
 
 # Font size
-font_size = "20"
-font_size_small = "16"
+font_size = "18"
+font_size_small = "14"
