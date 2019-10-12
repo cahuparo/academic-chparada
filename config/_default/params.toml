@@ -22,7 +22,7 @@ font = "allfira"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -86,7 +86,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "chparada@ncsu.edu"
-phone = "+1 919 602 9841"
+phone = "+1 919 602 0000"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
