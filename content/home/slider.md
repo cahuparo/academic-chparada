@@ -33,9 +33,9 @@ height = "300px"
   #cta_url = "https://sourcethemes.com/academic/"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
-  use_pages = true
-  pages_title = "Biography"
-  pages_type = "about"
+  #use_pages = true
+  #pages_title = "Biography"
+  #pages_type = "about"
 
 #[[item]]
 #  title = "Left"
