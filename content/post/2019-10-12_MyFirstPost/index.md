@@ -7,7 +7,7 @@ categories:
   - How to do?
   - example
 tags:
-  - bioinformatics
+  - How to do?
   - genomics
 
 # Featured image
