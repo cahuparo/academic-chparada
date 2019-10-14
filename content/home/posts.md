@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "post"
   
   # Choose how many columns the section has. Valid values: 1 or 2.
-  #columns = 1
+  columns = 1
   
   # Choose how much pages you would like to display (0 = all pages)
   #count = 5
@@ -68,7 +68,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
