@@ -95,5 +95,5 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = "aboutme-header"
+ css_class = ""
 +++
