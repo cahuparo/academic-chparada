@@ -15,7 +15,7 @@ authors: []
 lastmod: '2018-03-28'
 featured: yes
 image:
-  caption: 'Photo by [Sam Carter](https://unsplash.com/photos/GHOiyov2TSQ)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: 
