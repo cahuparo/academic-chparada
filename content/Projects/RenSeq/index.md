@@ -15,9 +15,9 @@ authors: []
 lastmod: '2018-03-28'
 featured: yes
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+  caption: 'Photo by [John Baker](https://unsplash.com/photos/3To9V42K0Ag)'
+  focal_point: ''
+  preview_only: yes
 projects: 
   - RenSeq
 ---
