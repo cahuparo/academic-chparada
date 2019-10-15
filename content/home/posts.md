@@ -14,11 +14,8 @@ subtitle = ""
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
   
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = 1
-  
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  #count = 5
   
   # Choose how many pages you would like to offset by
   #offset = 0
@@ -72,6 +69,9 @@ subtitle = ""
   
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = 1
+  
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
   
 [design.background]
   # Apply a background color, gradient, or image.
