@@ -1,6 +1,6 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
@@ -9,39 +9,35 @@ title = "Projects"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. project.
-  page_type = "project"
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "projects"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+  count = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
-  
- # Filter posts by a taxonomy term.
+
+  # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
     category = ""
     publication_type = ""
-    exclude_featured = false
-
+    
 [design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-    
+  
   # Background color.
   # color = "navy"
   
