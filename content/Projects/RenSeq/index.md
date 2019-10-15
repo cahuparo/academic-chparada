@@ -24,6 +24,5 @@ projects:
 
 I'm pleased to kkondohjadfbiub adsjb djn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslij
 
-Image will go here:
 
 
