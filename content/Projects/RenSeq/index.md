@@ -16,8 +16,8 @@ lastmod: '2018-03-28'
 featured: yes
 image:
   caption: 'Photo by [Sam Carter](https://unsplash.com/photos/GHOiyov2TSQ)'
-  focal_point: ''
-  preview_only: yes
+  focal_point: ""
+  preview_only: false
 projects: 
   - RenSeq
 ---
