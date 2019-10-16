@@ -10,7 +10,7 @@ categories:
 tags:
   - NLRs
 subtitle: ''
-summary: ''
+summary: 'remember to add a sumary here!!! this is what will make this project stand out in the widget'
 authors: []
 lastmod: '2018-03-28'
 featured: yes
@@ -25,8 +25,8 @@ featured: true
 
 I'm pleased to kkondohjadfbiub adsjb djn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslij This is the end
 
-<a href="https://www.raicestexas.org/donate">
-  <img src="featured.jpg" alt="click here to donate to RAICES Texas" title="click here to donate to RAICES Texas" width="100%" align="center">
+<a>
+  <img src="featured.jpg" width="25%" align="center">
 </a>
 
 djn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslij
