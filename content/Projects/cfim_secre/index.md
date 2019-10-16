@@ -21,7 +21,7 @@ projects:
   - cfim_secre
 featured: true
 ---
-<a href="https://www.raicestexas.org/donate">
+<a>
   <img src="feature.jpg" alt="uuuuu" title="uuuuuu" width="100%" align="center">
 </a>
 
