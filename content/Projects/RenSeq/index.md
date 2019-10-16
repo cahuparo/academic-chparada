@@ -20,7 +20,7 @@ image:
   preview_only: yes
 projects: 
   - RenSeq
-featured: true
+featured = true
 ---
 
 I'm pleased to kkondohjadfbiub adsjb djn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslij
