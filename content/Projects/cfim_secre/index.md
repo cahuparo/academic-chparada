@@ -25,6 +25,8 @@ featured: true
   <img src="feature.jpg" alt="uuuuu" title="uuuuuu" width="100%" align="center">
 </a>
 
+{{< figure src="feature.jpg" title="A caption" lightbox="true" >}}
+
 <figure>
 <img width="80%" src="feature.jpg" alt="A sweetpotato" />
 <figcaption width="75%">
