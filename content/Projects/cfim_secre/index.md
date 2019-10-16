@@ -20,7 +20,6 @@ image:
 projects: 
   - cfim_secre
 featured: true
-draft: true
 ---
 <a>
   <img src="feature.jpg" width="100%" align="center">
