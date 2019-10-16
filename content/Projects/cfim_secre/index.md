@@ -9,7 +9,7 @@ categories:
 tags:
   - Effectors
 subtitle: ''
-summary: ''
+summary: 'dgfsgrhdhr'
 authors: []
 lastmod: '2018-03-28'
 featured: yes
@@ -20,6 +20,7 @@ image:
 projects: 
   - cfim_secre
 featured: true
+draft: true
 ---
 <a>
   <img src="feature.jpg" width="100%" align="center">
