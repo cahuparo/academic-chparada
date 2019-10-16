@@ -14,26 +14,21 @@ authors: []
 lastmod: '2018-03-28'
 featured: yes
 image:
-  caption: 'Photo by [John Baker](https://unsplash.com/photos/3To9V42K0Ag)'
+  caption: 'By camilo'
   focal_point: ''
   preview_only: no
 projects: 
   - cfim_secre
 featured: true
 ---
-<a>
-  <img src="feature.jpg" alt="uuuuu" title="uuuuuu" width="100%" align="center">
-</a>
 
-{{< figure src="feature.jpg" title="A caption" lightbox="true" >}}
+{{< figure src="featured.jpg" title="A caption" lightbox="true" >}}
 
-<figure>
-<img width="80%" src="feature.jpg" alt="A sweetpotato" />
-<figcaption width="75%">
-</figcaption>
-</figure>
+This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a
 
-This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test For FEATURESSSSS
+
+
+testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test For FEATURESSSSS
 
 djn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslij
 
