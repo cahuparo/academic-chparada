@@ -24,7 +24,9 @@ featured: true
 
 This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test For FEATURESSSSS
 
-<img src="featured.jpg">
+<a>
+  <img src="featured.jpg">
+</a>
 
 djn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslij
 
