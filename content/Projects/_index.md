@@ -13,6 +13,6 @@ comments: true  # Show comments?
 header:
   caption: ""
   image: ""
-type: docs
+type: "widget_page"
 
 ---
