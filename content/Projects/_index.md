@@ -13,6 +13,5 @@ comments: true  # Show comments?
 header:
   caption: ""
   image: ""
-type: "widget_page"
 
 ---
