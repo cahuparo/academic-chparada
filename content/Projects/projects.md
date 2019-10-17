@@ -9,7 +9,7 @@ headless = true  # This file represents a page section.
   page_type = "/Projects/"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -19,7 +19,7 @@ headless = true  # This file represents a page section.
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "xc"
+    tag = ""
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -32,5 +32,5 @@ headless = true  # This file represents a page section.
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
 +++
