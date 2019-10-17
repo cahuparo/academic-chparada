@@ -11,5 +11,5 @@
 title = "Projectos"
 summary = "Projects"
 type = "widget_page"
-headless = false  # Homepage is headless, other widget pages are not.
+#headless = false  # Homepage is headless, other widget pages are not.
 ---
