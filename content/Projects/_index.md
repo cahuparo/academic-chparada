@@ -8,7 +8,7 @@
 
 ---
 # projects page
-title = "Projectos"
+title = "Projecto000s"
 summary = "Projects"
 type = "widget_page"
 #headless = false  # Homepage is headless, other widget pages are not.
