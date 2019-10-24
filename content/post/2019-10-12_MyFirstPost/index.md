@@ -4,7 +4,8 @@ author: Camilo Parada
 date: '2019-10-12'
 slug: Assembly
 categories:
-  - example
+  - bioinformatics
+  - Genome assemblies
 tags:
   - howtodo
   - ocio
