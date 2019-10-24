@@ -15,7 +15,7 @@
 
 [[main]]
   name = "RESEARCH"
-  url = "/Research_main/"
+  url = "/research_main/"
   weight = 20
 
 [[main]]
