@@ -24,10 +24,11 @@ headless = false  # Homepage is headless, other widget pages are not.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-#view: 3
+#view: 2
 
 # Optional header image (relative to `static/img/` folder).
 #header:
 #  caption: ""
 #  image: ""
 #---
+
