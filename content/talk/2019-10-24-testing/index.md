@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mastering R for Epidemiologic Research"
+title: "Testing talk"
 slug: "2019-09-02-mastering-r-for-epi"
-event: "Mastering R for Epidemiologic Research"
+event: "APS"
 event_url: https://bsph.charite.de/fileadmin/user_upload/microsites/m_cc01/bsph/Flyer/BSPH-AdvEpiMethods-Barrett.pdf
-location: Berlin, Germany
+location: Bogota, Colombia
 address:
   street:
   city:
@@ -13,7 +13,7 @@ address:
   postcode:
   country:
 summary:
-abstract: A week-long, intensive introduction to R at the Berlin School of Public Health at Charité – Universitätsmedizin Berlin. The course is for researchers, public health professionals, epidemiologists, and clinicians who want to improve their R coding skills, who want to learn modern tools in the R ecosystem, like the tidyverse and Shiny, or who want to get started writing software in R.
+abstract: The test of what an abstract.
 
 
 
