@@ -51,15 +51,15 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: https://master-r-epi.netlify.com/
+  url: 
 - icon: github
   icon_pack: fab
   name: github
-  url: https://github.com/malcolmbarrett/mastering_r_for_epi
+  url: 
 - icon: r-project
   icon_pack: fab
   name: course package
-  url: https://github.com/malcolmbarrett/masterepir
+  url: 
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
