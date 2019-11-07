@@ -19,7 +19,7 @@ image:
   focal_point: "Bottom"
   preview_only: false
   
-banner: content/post/2019-10-12_MyFirstPost/feature.png
+banner: content/post/2019-10-12_MyFirstPost/feature.jpg
 
 ---
 
