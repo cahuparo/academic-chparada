@@ -37,7 +37,7 @@ This is a how to do file that I created for anyone in need to run STRUCTURE!! Th
 
 > **Before you start:**
 >
-> - You need access to the HPC at NC State
+> - You need access to a High Performance Computer(HPC). The context of this turorial is around the resorces available at NC State, [Henry2](https://projects.ncsu.edu/hpc//main.php) is the name of the HPC that I have access to. The installation may vary depending of what kind of machine you are running.
 > - You need to have an input file! The format matters but can be converted to structure format.
 > - You need to know some basic information about your system: Plody level, number of individuals and number of loci.
 
