@@ -15,12 +15,11 @@ tags:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "structure graph by plotly"
-  focal_point: ''
-  preview_only: yes
+  placement: 1
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  focal_point: "Center"
+  preview_only: false
   
-banner: /content/post/2019-10-12_MyFirstPost/feature.jpg
-
 ---
 
 # Running STRUCTURE in Henry2 by Camilo Parada
