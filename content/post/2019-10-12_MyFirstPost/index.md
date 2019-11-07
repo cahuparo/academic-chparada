@@ -15,9 +15,12 @@ tags:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "From PacBio"
+  caption: "test"
   focal_point: "Bottom"
   preview_only: false
+  
+banner: content/post/2019-10-12_MyFirstPost/feature.png
+
 ---
 
 # Running STRUCTURE in Henry2 by Camilo Parada
