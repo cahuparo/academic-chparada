@@ -57,7 +57,7 @@ height = "300px"
   # cta_icon = "graduation-cap"
   use_pages = true
   pages_title = "Recent posts"
-  pages_type = "/post"
+  pages_type = "/content/post/"
 
 #[[item]]
 #  title = "Left"
