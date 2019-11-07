@@ -421,8 +421,6 @@ Now that you have your files in your personal computer, you can determine the be
 
 #<img align="center" src="/static/img/structure_harvester.gif" title="Screencapture of structure harvester" width='100%'/>
 
-< figure library="true" src="structure_harvester.gif" title="Screencapture of structure harvester" lightbox="true" >
-
 ![structure_harvester](/static/img/structure_harvester.gif)
 
 ### 8) Create structure plots!
