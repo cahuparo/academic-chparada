@@ -370,7 +370,7 @@ The second column provides population information in this case 1 represent indiv
 
 In green you can see the actual alleles for the respective loci
 
-### 5)Prepare the hpc job
+# 5)Prepare the hpc job
 
 Now that we have our files:
 
