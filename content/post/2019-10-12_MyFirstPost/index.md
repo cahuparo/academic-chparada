@@ -19,7 +19,7 @@ image:
   focal_point: ''
   preview_only: yes
   
-banner: content/post/2019-10-12_MyFirstPost/feature.jpg
+banner: /content/post/2019-10-12_MyFirstPost/feature.jpg
 
 ---
 
@@ -419,7 +419,7 @@ scp -r YOUR_unityID@login.hpc.ncsu.edu:/share/PI_unityID/YOUR_unityID/structure 
 
 Now that you have your files in your personal computer, you can determine the best K for your data. See gif bellow:
 
-![structure_harvester](https://github.com/cahuparo/academic-chparada/blob/master/static/img/structure_harvester.gif)
+![structure_harvester](/static/img/structure_harvester.gif)
 
 
 
