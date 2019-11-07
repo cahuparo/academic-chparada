@@ -419,7 +419,7 @@ scp -r YOUR_unityID@login.hpc.ncsu.edu:/share/PI_unityID/YOUR_unityID/structure 
 
 Now that you have your files in your personal computer, you can determine the best K for your data. See gif bellow:
 
-{{< figure library="true" src="structure_harvester.gif" title="Testing w/ {}" lightbox="true" >}}
+{{< figure library="true" src="structure_harvester.gif" title="Structure harvester" lightbox="true" >}}
 
 
 ### 8) Create structure plots!
