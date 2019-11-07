@@ -41,7 +41,7 @@ This is a how to do file that I created for anyone in need to run STRUCTURE!! Th
 > - You need to have an input file! The format matters but can be converted to structure format.
 > - You need to know some basic information about your system: Plody level, number of individuals and number of loci.
 
-### 1) Install STRUCTURE in HPC
+# 1) Install STRUCTURE in HPC
 
 In order to install programs in the HPC, you need acces to the `usrapps/` directory if you don't have it. Please request it via email to the hpc help server. 
 
@@ -115,7 +115,7 @@ And everytime you run again, you don't have to do module load or source the file
 conda activate /usr/local/usrapps/PI_unityID/env_structure_threader
 ```
 
-### 2) Prepare `mainparams` file
+# 2) Prepare `mainparams` file
 
 To get structure to work with your parameters, you need to modify the `mainparams`. I would say that at this point you need to read the manual to determine change in the [file](https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/structure_doc.pdf).
 
@@ -209,7 +209,7 @@ Command line options:
 
 To save the changes and to close type `ESC` followed by `Shift ZZ`
 
-### 3) Prepare `extraparams` file
+# 3) Prepare `extraparams` file
 
 We also need to create an extraparams file that structure uses. Sometimes will be necessary to modify the `extraparams` file to run structure. See bellow the options to modify:
 
@@ -346,7 +346,7 @@ MISCELLANEOUS
 #define REPORTHITRATE 0 //   (B) report hit rate if using METROFREQ
 ```
 
-### 4) Prepare your input file
+# 4) Prepare your input file
 
 Structure is very particular about the format in which the individuals, alleles, loci, or any other info is organized. This is an example of an imput file:
 
@@ -401,7 +401,7 @@ structure/ -t 16 -st /usr/local/usrapps/PI_unityID/env_structure_threader/bin/st
 
 This will run in about 1.72 hours!!! Which is amazing :smirk:  -->  :unlock:
 
-### 6) Once your job is complete! move the results to your personal computer:
+# 6) Once your job is complete! move the results to your personal computer:
 
 Use `scp` to move whole folders to your personal computer. Open a new terminal window and navegate to your desire location to copy the files then type:
 
@@ -411,14 +411,14 @@ scp -r YOUR_unityID@login.hpc.ncsu.edu:/share/PI_unityID/YOUR_unityID/structure 
 #The . at the end means current directory!!
 ```
 
-### 7) Determine your bestK using structure harvester:
+# 7) Determine your bestK using structure harvester:
 
 Now that you have your files in your personal computer, you can determine the best K for your data. See gif bellow:
 
 {{< figure library="true" src="structure_harvester.gif" title="Structure harvester" lightbox="true" >}}
 
 
-### 8) Create structure plots!
+# 8) Create structure plots!
 
 The last step is to create those famous plots. Structure_threader creates some default plots which can be all you need but if you want to try to disect the information, you will have to create the plot in something like excel or R. 
 
