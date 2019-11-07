@@ -37,13 +37,13 @@ This is a how to do file that I created for anyone in need to run STRUCTURE!! Th
 
 > **Before you start:**
 >
-> - You need access to a High Performance Computer(HPC). The context of this turorial is around the resorces available at NC State, [Henry2](https://projects.ncsu.edu/hpc//main.php) is the name of the HPC that I have access to. The installation may vary depending of what kind of machine you are running.
-> - You need to have an input file! The format matters but can be converted to structure format.
+> - You need access to a High Performance Computer(HPC). The context of this turorial is around the resources available at NC State, [Henry2](https://projects.ncsu.edu/hpc//main.php) is the name of the HPC that I have access to. The installation may vary depending of what kind of machine you are running.
+> - You need to have an input file! Needs to be in structure format which is very particular. See [here](https://web.stanford.edu/group/pritchardlab/software/structure-data_v.2.3.1.html). If you do not have this format available, you can always convert what you have.
 > - You need to know some basic information about your system: Plody level, number of individuals and number of loci.
 
 # 1) Install STRUCTURE in HPC
 
-In order to install programs in the HPC, you need acces to the `usrapps/` directory if you don't have it. Please request it via email to the hpc help server. 
+In order to install programs in the HPC, you need acces to the `usrapps/` directory if you do not have it. Please request it via email to your hpc help email. 
 
 Open the terminal:
 
@@ -408,7 +408,7 @@ Use `scp` to move whole folders to your personal computer. Open a new terminal w
 ```bash
 #To move from HPC to personal computer:
 scp -r YOUR_unityID@login.hpc.ncsu.edu:/share/PI_unityID/YOUR_unityID/structure .
-#The . at the end means current directory!!
+#The . at the end means current directory in your personal computer!!
 ```
 
 # 7) Determine your bestK using structure harvester:
