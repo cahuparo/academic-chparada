@@ -364,11 +364,11 @@ Notice the first row corresponds to the loci.
 
 Each individual has 2 rows since it is a diploid organism. 
 
-The second first column is the individual label.
+The first column is the individual label.
 
-The second column provides population information in this case 1 represent individuals from the population #1.
+The second column provides population information in this case 1 represents individuals from the population #1.
 
-In green you can see the actual alleles for the respective loci
+In the center, you can see the actual alleles for the respective loci.
 
 # 5)Prepare the hpc job
 
@@ -413,7 +413,7 @@ scp -r YOUR_unityID@login.hpc.ncsu.edu:/share/PI_unityID/YOUR_unityID/structure 
 
 # 7) Determine your bestK using structure harvester:
 
-Now that you have your files in your personal computer, you can determine the best K for your data. See gif bellow:
+Now that you have your files in your personal computer, you can determine the best K for your data. See gif below:
 
 {{< figure library="true" src="structure_harvester.gif" title="Structure harvester" lightbox="true" >}}
 
