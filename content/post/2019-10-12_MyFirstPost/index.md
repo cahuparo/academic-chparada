@@ -2,7 +2,7 @@
 title: 'How to run Structure in Henry2'
 author: Camilo Parada
 date: '2019-10-12'
-slug: Assembly
+slug: How-to-run-Structure-in-Henry2
 categories:
   - bioinformatics
   - Population Genomics
@@ -15,9 +15,9 @@ tags:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "test"
-  focal_point: "Bottom"
-  preview_only: false
+  caption: "structure graph by plotly"
+  focal_point: ''
+  preview_only: yes
   
 banner: content/post/2019-10-12_MyFirstPost/feature.jpg
 
