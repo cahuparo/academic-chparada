@@ -38,7 +38,7 @@ height = "300px"
   #pages_type = "about"
   
 [[item]]
-  title = "Recent Post"
+  title = ""
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -46,18 +46,19 @@ height = "300px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#56B4E9"  # An HTML color value.
   overlay_img = "header/koch.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  # cta_label = "Get Academic"
-  # cta_url = "https://sourcethemes.com/academic/"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
+  cta_label = "Check out my recent post"
+  cta_url = "https://cahuparo.me/post/"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+  
   use_pages = true
   pages_title = "Recent posts"
-  pages_type = "/content/post/"
+  pages_type = "post"
 
 #[[item]]
 #  title = "Left"
