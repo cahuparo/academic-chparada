@@ -21,8 +21,6 @@ image:
   
 ---
 
-# Running STRUCTURE in Henry2 by Camilo Parada
-
 **Just give me credit whenever you get a chance :smiley:**
 
 ------
