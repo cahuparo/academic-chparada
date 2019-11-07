@@ -16,7 +16,7 @@ tags:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   placement: 1
-  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  caption: 'Image credit: [**Colin Watts**](https://images.unsplash.com/photo-1542662543-50261cc8a779?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)'
   focal_point: "Center"
   preview_only: false
   
