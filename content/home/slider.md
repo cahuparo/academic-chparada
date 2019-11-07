@@ -38,7 +38,7 @@ height = "300px"
   #pages_type = "about"
   
 [[item]]
-  title = ""
+  title = "P"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -57,7 +57,7 @@ height = "300px"
   # cta_icon = "graduation-cap"
   use_pages = true
   pages_title = "Recent posts"
-  pages_type = "posts"
+  pages_type = "post"
 
 #[[item]]
 #  title = "Left"
