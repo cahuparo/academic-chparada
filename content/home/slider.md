@@ -38,7 +38,7 @@ height = "300px"
   #pages_type = "about"
   
 [[item]]
-  title = ""
+  title = "Recent Post"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
