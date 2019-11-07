@@ -10,7 +10,6 @@ categories:
 tags:
   - how2do
   - popgen
-toc: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -34,7 +33,7 @@ This is a how to do file that I created for anyone in need to run STRUCTURE!! Th
 
 ------
 
-[TOC]
+{{% toc %}}
 
 ------
 
