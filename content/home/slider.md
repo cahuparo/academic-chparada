@@ -39,8 +39,7 @@ height = "300px"
   #pages_title = "Biography"
   #pages_type = "about"
   
-  <div class=​"wg-hero dark carousel-item" style=​"position:​ relative;​ height:​ 400px;​ background-color:​ rgb(86, 180, 233)​;​ background-image:​ linear-gradient(rgba(0, 0, 0, 0.2)​, rgba(0, 0, 0, 0.2)​)​, url("https:​/​/​malco.io/​img/​headers/​tree.jpg")​;​ min-height:​ 400px;​">​
-  
+
 [[item]]
   title = ""
   content = ""
