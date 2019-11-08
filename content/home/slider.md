@@ -15,6 +15,8 @@ height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+
 [[item]]
   title = "Site under construction"
   content = "This website will be ready soon :smile:"
@@ -22,9 +24,9 @@ height = "300px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#56B4E9"  # An HTML color value.
+  overlay_color = "#5d657a"  # An HTML color value.
   overlay_img = "slider_1.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_filter = 1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -44,7 +46,7 @@ height = "300px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#56B4E9"  # An HTML color value.
+  overlay_color = "#5d657a"  # An HTML color value.
   overlay_img = "header/koch.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
