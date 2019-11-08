@@ -39,51 +39,6 @@ height = "300px"
   #pages_title = "Biography"
   #pages_type = "about"
  
-{{ \$ := .root }} {{ \$page := .page }} {{ \$hash\_id := .hash\_id }}
-
-1.  
-
-{{ range \$index, \$item := \$page.Params.item }} {{ \$query := where
-site.RegularPages "Type" \$item.pages\_type }} {{\$recent\_item := index
-(\$query) 0}} {{ \$i18n := "" }} {{ if eq \$item.pages\_type "post" }}
-{{ \$i18n = "more\_posts" }} {{ else if eq \$item.pages\_type "talk" }}
-{{ \$i18n = "more\_talks" }} {{ else if eq \$item.pages\_type
-"publication" }} {{ \$i18n = "more\_publications" }} {{ else }} {{
-\$i18n = "more\_pages" }} {{ end }}
-
-{{ with \$item.title }}{{ . | markdownify | emojify }}{{ end }} {.hero-title}
-===============================================================
-
-{{ if \$item.use\_pages }}
-
-{{ with \$item.pages\_title }}{{ . | markdownify | emojify }}{{ end }}
-======================================================================
-
-{{ with \$item.pages\_subtitle }}
-
-{{ . | markdownify | emojify }}
-
-{{ end }}
-
-{{ partial "slider\_li" \$recent\_item }}
-
-[{{ i18n \$i18n | default "See all" }} **]({{%20$item.pages_type%20}})
-
-{{ end }} {{ with \$item.content }}
-
-{{ . | markdownify | emojify }}
-
-{{ end }} {{ if \$item.cta\_url }} {{ \$pack := or .cta\_icon\_pack
-"fas" }} {{ \$pack\_prefix := \$pack }} {{ if in (slice "fab" "fas"
-"far" "fal") \$pack }} {{ \$pack\_prefix = "fa" }} {{ end }}
-
-[{{- with \$item.cta\_icon -}}**{{- end -}} {{- \$item.cta\_label |
-emojify | safeHTML -}}]({{%20$item.cta_url%20}})
-
-{{ end }}
-
-{{ end }}
-
 
 [[item]]
   title = ""
