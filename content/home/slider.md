@@ -26,7 +26,7 @@ height = "300px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#5d657a"  # An HTML color value.
   overlay_img = "slider_1.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -38,6 +38,8 @@ height = "300px"
   #use_pages = true
   #pages_title = "Biography"
   #pages_type = "about"
+  
+  <div class=​"wg-hero dark carousel-item" style=​"position:​ relative;​ height:​ 400px;​ background-color:​ rgb(86, 180, 233)​;​ background-image:​ linear-gradient(rgba(0, 0, 0, 0.2)​, rgba(0, 0, 0, 0.2)​)​, url("https:​/​/​malco.io/​img/​headers/​tree.jpg")​;​ min-height:​ 400px;​">​
   
 [[item]]
   title = ""
