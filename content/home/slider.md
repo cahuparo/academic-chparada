@@ -18,7 +18,7 @@ height = "300px"
 
 
 [[item]]
-  title = "Site under construction"
+  title = "Site underrrr construction"
   content = "This website will be ready soon :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
