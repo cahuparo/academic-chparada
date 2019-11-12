@@ -378,7 +378,7 @@ Now that we have our files:
 - mainparams
 - extraparams 
 
-We can create an HPC job to run structure in parallel. Prepare a job like the one below:
+We can create an HPC job to run structure in parallel. Preparing an HPC job means creating a script that schedules resources in the HPC and directs the commands you actually want to run. This preparation can be accomplished using `vi` like we have done before, copy and paste the job bellow and make changes to fit your unityID:
 
 ```bash
 #!/bin/csh
@@ -413,7 +413,7 @@ scp -r YOUR_unityID@login.hpc.ncsu.edu:/share/PI_unityID/YOUR_unityID/structure 
 
 # 7) Determine your bestK using structure harvester:
 
-Now that you have your files in your personal computer, you can determine the best K for your data. See gif below:
+Now that you have your files in your personal computer, you can determine the best K for your data. In the example below, the bestK is 3.
 
 {{< figure library="true" src="structure_harvester.gif" title="Structure harvester" lightbox="true" >}}
 
