@@ -89,7 +89,7 @@ You just type `i` to edit and the copy and paste from here:
 
 ```bash
 pkgs_dirs:
-\- /share/$GROUP/$USER/conda/pkgs
+- /share/$GROUP/$USER/conda/pkgs
 ```
 
 To save the changes and to close type `ESC` followed by `Shift ZZ`
