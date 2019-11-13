@@ -1,11 +1,11 @@
 ---
 title: 'How to run Structure in Henry2'
 author: Camilo Parada
-date: '2019-10-12'
+date: '2019-11-13'
 slug: How-to-run-Structure-in-Henry2
 categories:
   - bioinformatics
-  - Population Genomics
+  - Population Genetics
   - HOW2DO
 tags:
   - how2do
