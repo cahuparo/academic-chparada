@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Camilo H. Parada Rojas
+name: Camilo Parada Rojas
 
 # Username (this should match the folder name)
 authors:
