@@ -1,4 +1,4 @@
----
++++
 title: 'How to run Structure in HPC'
 author: Camilo Parada
 date: '2019-11-13'
@@ -18,8 +18,10 @@ image:
   caption: 'Structure_graph'
   focal_point: Left
   preview_only: false
+widget = "hero"
+headless = true
   
----
++++
 
 **Just give me credit whenever you get a chance :smiley:**
 
