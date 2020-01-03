@@ -19,6 +19,7 @@ image:
   caption: 'Structure_graph'
   focal_point: ''
   preview_only: no
+columns = "2"
 
 ---
 
