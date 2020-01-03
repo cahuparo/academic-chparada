@@ -20,8 +20,7 @@ image:
   preview_only: false
 widget = "hero"
 headless = true
-
----  
+  
 
 **Just give me credit whenever you get a chance :smiley:**
 
