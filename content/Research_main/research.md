@@ -30,12 +30,12 @@ subtitle = ""
     tag = "phytophthora"
   
   [[content.filter_button]]
-    name = "Shiny Apps"
-    tag = "shinyapp"
+    name = "Black Rot"
+    tag = "BlackRot"
     
   [[content.filter_button]]
-    name = "Learn R"
-    tag = "education"
+    name = "Extension"
+    tag = "applied"
     
   [[content.filter_button]]
     name = "Other Projects"
