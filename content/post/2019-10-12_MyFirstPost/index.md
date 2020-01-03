@@ -4,7 +4,23 @@ title: 'How to run Structure in HPC'
 summary: This is a how to do file that I created for anyone in need to run STRUCTURE!
 image:
   focal_point: Center
-tags: [how2do, popgen]
+slug: How-to-run-Structure-in-Henry2
+categories:
+  - bioinformatics
+  - Population Genetics
+  - HOW2DO
+tags:
+  - how2do
+  - popgen
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  placement: 1
+  caption: 'Structure_graph'
+  focal_point: Left
+  preview_only: false
+
 ---
 
 **Just give me credit whenever you get a chance :smiley:**
