@@ -14,7 +14,7 @@ tags:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  placement: 3
+  placement: 2
   caption: 'Structure_graph'
   focal_point: "Center"
   preview_only: false
