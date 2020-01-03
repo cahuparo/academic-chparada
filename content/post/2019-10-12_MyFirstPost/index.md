@@ -16,7 +16,7 @@ tags:
 image:
   placement: 1
   caption: 'Structure_graph'
-  focal_point: "Left"
+  focal_point: "left"
   preview_only: false
   
 ---
