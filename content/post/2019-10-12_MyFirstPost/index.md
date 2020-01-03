@@ -17,6 +17,7 @@ image:
   caption: 'Structure_graph'
   focal_point: Smart
   preview_only: false
+  placement: 3
 projects: [renseq]
 
 ---
