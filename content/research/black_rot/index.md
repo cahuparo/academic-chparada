@@ -16,7 +16,7 @@ image:
   caption: 'Photo of 16 sweetpotato cultivars'
   focal_point: ''
   preview_only: false
-featured: false
+featured: yes
 
 ---
 
