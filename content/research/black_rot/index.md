@@ -22,7 +22,7 @@ image:
   preview_only: false
 projects: 
   - black_rot
-featured: true
+featured: false
 
 ---
 
