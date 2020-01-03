@@ -17,7 +17,7 @@ tags:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: 'Structure_graph'
-  focal_point: "Left"
+  focal_point: "Center"
   preview_only: false
 
 ---
