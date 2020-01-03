@@ -1,5 +1,5 @@
 ---
-date: '2019-09-17'
+date: '2019-10-12'
 title: 'How to run Structure in HPC'
 summary: This is a how to do file that I created for anyone in need to run STRUCTURE!
 image:
