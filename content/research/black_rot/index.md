@@ -19,7 +19,7 @@ featured: yes
 image:
   caption: 'Photo of 16 sweetpotato cultivars'
   focal_point: ''
-  preview_only: yes
+  preview_only: false
 projects: 
   - black_rot
 featured: true
