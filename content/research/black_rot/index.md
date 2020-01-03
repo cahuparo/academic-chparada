@@ -8,17 +8,14 @@ categories:
   - Sweetpotato
   - Resistance
 tags:
-  - host resistance
-  - Ceratocystis
-  - applied
+  - BlackRot
+  - Extension
 summary: 'A short spill on my research efforts to indentify resistance in sweetpotato to black rot.'
 lastmod: '2020-01-03'
 image:
   caption: 'Photo of 16 sweetpotato cultivars'
   focal_point: ''
   preview_only: false
-projects: 
-  - black_rot
 featured: false
 
 ---
