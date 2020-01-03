@@ -1,4 +1,4 @@
-+++
+---
 title: 'How to run Structure in HPC'
 author: Camilo Parada
 date: '2019-11-13'
@@ -21,7 +21,6 @@ image:
 widget = "hero"
 headless = true
   
-+++
 
 **Just give me credit whenever you get a chance :smiley:**
 
