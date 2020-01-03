@@ -1,9 +1,7 @@
 ---
 date: '2019-10-12'
-title: 'How to run Structure in HPC'
+title: 'How to run Structure in nnnnnnnnnnn nnnn nnnnnnn HPC'
 summary: This is a how to do file that I created for anyone in need to run STRUCTURE!
-image:
-  focal_point: Center
 slug: How-to-run-Structure-in-Henry2
 categories:
   - bioinformatics
