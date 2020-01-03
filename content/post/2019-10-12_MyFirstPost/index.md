@@ -20,6 +20,9 @@ image:
   caption: 'Structure_graph'
   focal_point: Left
   preview_only: false
+header:
+  caption: ""
+  image: ""
 
 ---
 
