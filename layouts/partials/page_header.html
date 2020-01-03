@@ -5,8 +5,6 @@
 {{/* Set default titles for node pages */}}
 {{ $title := .Title }}
 {{ if and (not $title) .IsNode }}
-  {{ if eq .Type "research" }}
-    {{ $title = i18n "Research_main" }}
   {{ if eq .Type "post" }}
     {{ $title = i18n "posts" }}
   {{ else if eq .Type "talk" }}
