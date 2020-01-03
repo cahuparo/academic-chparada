@@ -35,7 +35,7 @@ subtitle = ""
     
   [[content.filter_button]]
     name = "Extension"
-    tag = "applied"
+    tag = "Extension"
     
   [[content.filter_button]]
     name = "Other Projects"
@@ -53,7 +53,7 @@ subtitle = ""
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.
