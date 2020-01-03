@@ -15,7 +15,7 @@ tags:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: 'Structure_graph'
-  focal_point: ''
+  focal_point: Smart
   preview_only: false
 projects: [renseq]
 
