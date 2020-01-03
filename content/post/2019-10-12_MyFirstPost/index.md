@@ -1,5 +1,5 @@
 ---
-title: 'How to run Structure in Henry2'
+title: 'How to run Structure in HPC'
 author: Camilo Parada
 date: '2019-11-13'
 slug: How-to-run-Structure-in-Henry2
