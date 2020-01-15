@@ -19,6 +19,7 @@ image:
   preview_only: false
   placement: 3
 projects: []
+
 ---
 
 This bioinformatic notes include step by step work towards assembling long reads using [canu](https://canu.readthedocs.io/en/latest/). Notice that this how to do notes are based on Henry2 capabilities. Once your sequencing run is complete, the sequencing lab will most likely provide the following files:
@@ -37,9 +38,7 @@ This bioinformatic notes include step by step work towards assembling long reads
 
 ##### What are subreads?
 
-![image-20191006124352745](/Users/chparada/Library/Application Support/typora-user-images/image-20191006124352745.png)
-
-The actual subreads represent the region of DNA that was sequenced, depending of how many times the polymerase read that region you may have several subreads for a single genomic region. 
+Subreads represent the region of DNA that was sequenced, depending of how many times the polymerase read that region you may have several subreads for a single genomic region. 
 
 ## Prerequisites and installation in HPC
 
