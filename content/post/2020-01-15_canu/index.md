@@ -22,6 +22,7 @@ projects: []
 
 ---
 
+
 This bioinformatic notes include step by step work towards assembling long reads using [canu](https://canu.readthedocs.io/en/latest/). Notice that this how to do notes are based on Henry2 capabilities. Once your sequencing run is complete, the sequencing lab will most likely provide the following files:
 
 - m54163.scraps.bam.pbi
@@ -198,28 +199,26 @@ canu -assemble -p assembly_all -d assembly_all_erate-0.025 \
 
 
 
-> ##### Some useful monitoring commands:
->
-> ```sh
-> #Checking if it run:
-> 
-> bjobs -l
-> tail -f
-> bhist
-> 
-> #To modify time, ##### = jobnumber
-> bjobs -l #####
-> bmod -W 96:00 #####
-> 
-> ```
+##### Some useful monitoring commands:
 
+```sh
+#Checking if it run:
 
+bjobs -l
+tail -f
+bhist
+ 
+#To modify time, ##### = jobnumber
+bjobs -l #####
+bmod -W 96:00 #####
+
+```
 
 This first assembly process produced the following results:
 
 All_0.025
 
-```
+```sh
 Total units: 23
 Reference: 40000000
 BasesInFasta: 31899376
