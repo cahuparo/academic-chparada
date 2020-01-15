@@ -23,6 +23,8 @@ projects: []
 ---
 
 
+------
+
 This bioinformatic notes include step by step work towards assembling long reads using [canu](https://canu.readthedocs.io/en/latest/). Notice that this how to do notes are based on Henry2 capabilities. Once your sequencing run is complete, the sequencing lab will most likely provide the following files:
 
 - m54163.scraps.bam.pbi
