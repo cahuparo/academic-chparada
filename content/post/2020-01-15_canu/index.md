@@ -70,7 +70,8 @@ Before unziping sequencing, we need to move the files to the HPC where we will r
 
 - Load bamtools 
 - Unzip files
-- Extract all reads from bam file
+- Extract all reads from bam file.
+
 
 ```sh
 #!/bin/csh
