@@ -21,7 +21,7 @@ image:
 projects: []
 ---
 
-This bioinformatic notes include step by step work towards assembling long reads using [canu](https://canu.readthedocs.io/en/latest/). . Notice that this how to do notes are based on Henry2 capabilities. Once your sequencing run is complete, the sequencing lab will most likely provide the following files:
+This bioinformatic notes include step by step work towards assembling long reads using [canu](https://canu.readthedocs.io/en/latest/). Notice that this how to do notes are based on Henry2 capabilities. Once your sequencing run is complete, the sequencing lab will most likely provide the following files:
 
 - m54163.scraps.bam.pbi
 - m54163.sts.xml
@@ -33,7 +33,7 @@ This bioinformatic notes include step by step work towards assembling long reads
 - m54163.transferdone
 - m54163.scraps.bam    
 
-**Bolded** files are some of the most important!
+**Bold** files are some of the most important!
 
 ##### What are subreads?
 
