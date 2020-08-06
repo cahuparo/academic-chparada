@@ -7,7 +7,7 @@ categories: [genomics, sweetpotato, resistance, NLRs]
 date: 2020-08-06T08:00:20-07:00
 
 image:
-  placement: 2
+  placement: 3
   caption: "NLR sequence capture"
   focal_point: "Center"
   preview_only: false
