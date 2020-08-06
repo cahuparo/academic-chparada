@@ -13,10 +13,6 @@ url_slides: ""
 url_video: ""
 featured: "true"
 
-header:
-  image: "featured.jpg"
-  caption: "s"
-
 ---
 ------
 
