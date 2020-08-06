@@ -14,7 +14,7 @@ url_video: ""
 featured: "true"
 
 header:
-  image: "feature.jpg"
+  image: "featured.jpg"
   caption: "s"
 
 ---
