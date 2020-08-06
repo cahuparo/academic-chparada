@@ -6,15 +6,16 @@ tags: [RenSeq, sweetpotato, genomics]
 categories: [genomics, sweetpotato, resistance, NLRs]
 date: 2020-08-06T08:00:20-07:00
 
-image:
-  caption: ""
-  focal_point: ""
-  
+ 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 featured: "true"
+
+header:
+  image: "feature.jpg"
+  caption: "s"
 
 ---
 ------
