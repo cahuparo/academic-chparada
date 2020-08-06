@@ -21,7 +21,7 @@ featured: "true"
 ---
 ------
 
-## **What is the sweetpotato catalog of NLR genes?** 
+## **What is catalog of NLR genes in the hexaploid sweetpotato?** 
 
 ------
 
