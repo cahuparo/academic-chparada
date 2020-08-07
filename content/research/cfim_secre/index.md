@@ -2,7 +2,7 @@
 title: "Ceratocystis secretome"
 summary: "Here, we attempt to annotate effectors in the fungal pathogen *Ceratocystis fimbriata* and closely related species"
 authors: [Camilo Parada]
-tags: [BlackRot, Sweetpotato, genomics]
+tags: [BlackRot, Sweetpotato, Genomics]
 categories: [Sweetpotato, BlackRot, Genomics]
 date: 2020-08-07T08:00:20-07:00
 
