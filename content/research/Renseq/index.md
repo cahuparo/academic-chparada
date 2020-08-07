@@ -7,7 +7,7 @@ categories: [genomics, sweetpotato, resistance, NLRs]
 date: 2020-08-06T08:00:20-07:00
 
 image:
-  caption: "Photo by Louis Hansel @shotsoflouis on Unsplash"
+  caption: "16 sweetpotato cultivars"
   focal_point: "Smart"  
   preview_only: false
   placement: 2
@@ -22,7 +22,7 @@ featured: "true"
 ---
 ------
 
-### **What is catalog of NLR genes in the hexaploid sweetpotato?** 
+### **What is the NLR gene catalog in the hexaploid sweetpotato?** 
 
 ------
 
