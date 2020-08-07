@@ -19,12 +19,6 @@ featured: "true"
 
 ---
 
-![](test.gif)
-
-------
-
-# **Black rot resistance in Sweetpotato**
-
 ------
 
 The United States (US) exports ~44% of sweetpotatoes in the global export market annually, and North Carolina (NC) produces >50% of sweetpotatoes grown in the US. Higher market prices abroad motivate NC sweetpotato growers to export their crop. 
@@ -42,6 +36,13 @@ Sweetpotatoes are sold in three sizes representing different developmental stage
 ![](METHOD_2.jpg)
 
 We found that CLR values are associated with total area of storage root suggesting age-related resistance. Surface lesion diameter has no correlation with storage root area indicating no age-related effect for this trait.
+
+![](RESULTS_1.jpg)
+
+The computed tomography scan suggests that the Jumbo storage root cambium serves as a barrier for C. fimbriata inner colonization. This high-density region is underdeveloped in the Canner storage root. Our proof of concept experiment potentially highlights the presence of abundant perithecia in Canner roots that are absent in Jumbo roots.
+
+![](RESULTS_2.png)
+
 
 
 
