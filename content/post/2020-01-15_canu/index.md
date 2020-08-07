@@ -10,6 +10,15 @@ categories:
 tags:
   - how2do
   - genomics
+
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+menu:
+  post:
+    name: canu
+    weight: 1
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -19,12 +28,6 @@ image:
   preview_only: false
   placement: 3
 projects: []
-
-
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-
 
 ---
 
