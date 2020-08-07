@@ -41,8 +41,8 @@ height = "300px"
  
  
 [[item]]
-  title = "Research"
-  content = "Understanding sweetpotato inmunity and fungal effectors"
+  title = "Research projects"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -54,7 +54,7 @@ height = "300px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Research projects"
+  cta_label = "Understanding sweetpotato inmunity and fungal effectors"
   cta_url = "https://cahuparo.me/research_main/"
  # cta_icon_pack = "fas"
  # cta_icon = ""
