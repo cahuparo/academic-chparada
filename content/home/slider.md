@@ -39,6 +39,29 @@ height = "300px"
   #pages_title = "Biography"
   #pages_type = "about"
  
+ 
+[[item]]
+  title = "Research projects"
+  content = "This website will be ready soon :smile:"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#5d657a"  # An HTML color value.
+  overlay_img = "slider_2.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  #cta_label = "Get Academic"
+  #cta_url = "https://sourcethemes.com/academic/"
+  #cta_icon_pack = "fas"
+  #cta_icon = "graduation-cap"
+  #use_pages = true
+  #pages_title = "Biography"
+  #pages_type = "about"
+  
 
 [[item]]
   title = ""
