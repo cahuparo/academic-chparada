@@ -1,15 +1,16 @@
 ---
 title: "Black rot resistance in Sweetpotato"
-summary: "A short spill on my research efforts to indentify resistance in sweetpotato to black rot."
-authors: []
+summary: "A short spill on my research efforts to identify black rot resistance in sweetpotato"
+authors: [Camilo Parada]
 tags: [BlackRot, Sweetpotato]
 categories: [Sweetpotato, BlackRot, Resistance]
-date: 2019-10-09T08:00:20-07:00
+date: 2020-07-01T08:00:20-07:00
+lastmod: 2020-08-06T10:57:47+02:00
 
 image:
   caption: ""
   focal_point: "Right"
-  preview_only: false
+  preview_only: true
   placement: 2
 
 url_code: ""
