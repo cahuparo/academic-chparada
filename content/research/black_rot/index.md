@@ -2,8 +2,8 @@
 title: "Characterizing Black Rot Resistance in Sweetpotato"
 summary: "A short spill on my research efforts to indentify resistance in sweetpotato to black rot."
 authors: []
-tags: [BlackRot, Extension]
-categories: [Sweetpotato, Extension, BlackRot, Resistance]
+tags: [BlackRot, Sweetpotato]
+categories: [Sweetpotato, BlackRot, Resistance]
 date: 2019-10-09T08:00:20-07:00
 
 image:
