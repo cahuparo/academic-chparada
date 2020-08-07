@@ -56,8 +56,8 @@ height = "300px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "🍠 Research projects 🧬"
   cta_url = "https://cahuparo.me/research_main/"
-  # cta_icon_pack = "fas"
-  # cta_icon = ""
+  cta_icon_pack = "fas"
+  cta_icon = "Beaker"
   
   use_pages = true
   pages_title = "Research"
