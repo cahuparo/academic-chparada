@@ -2,8 +2,8 @@
 title: "Revealing the sweetpotato resistome"
 summary: "Check out how we plan to reveal the complete sweetpotato NLR repertorie."
 authors: [Camilo Parada]
-tags: [RenSeq, sweetpotato, genomics]
-categories: [genomics, sweetpotato, resistance, NLRs]
+tags: [Genomics, Sweetpotato]
+categories: [Genomics, Sweetpotato, Resistance, NLRs]
 date: 2020-08-06T08:00:20-07:00
 
 image:
