@@ -42,7 +42,3 @@ We found that CLR values are associated with total area of storage root suggesti
 The computed tomography scan suggests that the Jumbo storage root cambium serves as a barrier for C. fimbriata inner colonization. This high-density region is underdeveloped in the Canner storage root. Our proof of concept experiment potentially highlights the presence of abundant perithecia in Canner roots that are absent in Jumbo roots.
 
 ![](RESULTS_2.png)
-
-
-
-
