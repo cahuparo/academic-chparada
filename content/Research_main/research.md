@@ -42,6 +42,14 @@ subtitle = ""
     tag = "Extension"
     
   [[content.filter_button]]
+    name = "Phytophthora"
+    tag = "Pcapsici"
+    
+  [[content.filter_button]]
+    name = "PopGen"
+    tag = "PopGen"
+    
+  [[content.filter_button]]
     name = "Other Projects"
     tag = "other"
 
