@@ -41,8 +41,8 @@ height = "300px"
  
  
 [[item]]
-  title = ""
-  content = "My research focuses on understanding sweetpotato inmunity and fungal effectors"
+  title = "Research"
+  content = "Understanding sweetpotato inmunity and fungal effectors"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
