@@ -54,13 +54,14 @@ height = "300px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  #cta_label = "Get Academic"
-  #cta_url = "https://sourcethemes.com/academic/"
-  #cta_icon_pack = "fas"
-  #cta_icon = "graduation-cap"
-  #use_pages = true
-  #pages_title = "Biography"
-  #pages_type = "about"
+  cta_label = "Research"
+  cta_url = "https://cahuparo.me/research_main/"
+  cta_icon_pack = "fas"
+  cta_icon = "science"
+  
+  use_pages = true
+  pages_title = "Research"
+  pages_type = "project"
   
 
 [[item]]
