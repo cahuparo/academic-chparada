@@ -26,12 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Phytophthora"
-    tag = "phytophthora"
+    name = "Sweetpotato"
+    tag = "Sweetpotato"
   
   [[content.filter_button]]
     name = "Black Rot"
     tag = "BlackRot"
+  
+  [content.filter_button]]
+    name = "Genomics"
+    tag = "Genomics"
     
   [[content.filter_button]]
     name = "Extension"
