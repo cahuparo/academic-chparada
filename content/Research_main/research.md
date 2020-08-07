@@ -36,7 +36,7 @@ subtitle = ""
   [content.filter_button]]
     name = "Genomics"
     tag = "Genomics"
-    
+  
   [[content.filter_button]]
     name = "Extension"
     tag = "Extension"
