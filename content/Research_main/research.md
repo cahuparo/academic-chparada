@@ -33,9 +33,9 @@ subtitle = ""
     name = "Black Rot"
     tag = "BlackRot"
   
-  [content.filter_button]]
+  [[content.filter_button]]
     name = "Genomics"
-    tag = "Genomics"
+    tag = "genomics"
   
   [[content.filter_button]]
     name = "Extension"
