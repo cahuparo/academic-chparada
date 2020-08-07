@@ -41,8 +41,8 @@ height = "300px"
  
  
 [[item]]
-  title = "Research projects"
-  content = "This website will be ready soon :smile:"
+  title = ""
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -54,13 +54,13 @@ height = "300px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Research"
+  cta_label = "Research projects"
   cta_url = "https://cahuparo.me/research_main/"
-  cta_icon_pack = "fas"
-  cta_icon = "science"
+  # cta_icon_pack = "fas"
+  # cta_icon = ""
   
   use_pages = true
-  pages_title = "Research"
+  pages_title = ":smile: Research"
   pages_type = "project"
   
 
