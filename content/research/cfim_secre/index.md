@@ -1,37 +1,21 @@
 ---
-title: Ceratocystis secretome
-author: Camilo Parada
-date: '2019-10-14'
-categories:
-  - bioinformatics
-  - genome
-  - exomecapture
-tags:
-  - Effectors
-subtitle: ''
-summary: 'dgfsgrhdhr'
-authors: []
-lastmod: '2018-03-28'
-featured: yes
+title: "Ceratocystis secretome"
+summary: "Here, we attempt to annotate effectors in the fungal pathogen *Ceratocystis fimbriata* and closely related species"
+authors: [Camilo Parada]
+tags: [BlackRot, Sweetpotato, Genomics]
+categories: [Sweetpotato, BlackRot]
+date: 2020-08-07T08:00:20-07:00
+
 image:
-  caption: 'By camilo'
-  focal_point: ''
-  preview_only: no
-projects: 
-  - cfim_secre
-featured: true
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+featured: "true"
+
 ---
-
-{{< figure src="featured.jpg" title="A caption" lightbox="true" >}}
-
-This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a
-
-
-
-testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a test For FEATURESSSSS
-
-djn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslij
-
-djn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslijdjn cib knsab cnbhsac klhgcn avbyv cijba nc bn b jbkslij
-
-
+This is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a testThis is a.
