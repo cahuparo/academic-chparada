@@ -9,7 +9,7 @@ date: 2020-08-07T08:00:20-07:00
 image:
   caption: ""
   focal_point: "Center"
-  preview_only: false
+  preview_only: true
 
 url_code: ""
 url_pdf: ""
@@ -18,12 +18,10 @@ url_video: ""
 featured: "true"
 ---
 
-### In this project we want to answer the following questions:
+In this project we want to answer the following questions:
 
-#### How does *C. fimbriata* modulate effectors/elicitors during infection?
-
-#### How does *C. fimbriata* secretome adapts to infect root vs slips?
-
-#### Is there any transcriptional reprograming in sweetpotato when infected by *C. fimbriata?* -At different time points -Plant tissues -Cultivars
+- How does *C. fimbriata* modulate effectors/elicitors during infection?
+- How does *C. fimbriata* secretome adapts to infect root vs slips?
+- Is there any transcriptional reprograming in sweetpotato when infected by *C. fimbriata?* -At different time points -Plant tissues -Cultivars
 
 ![](summary.png)
