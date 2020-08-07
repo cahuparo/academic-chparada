@@ -18,12 +18,15 @@ organizations:
   url: "https://www.ncsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include secretome of fungal pathogens and resistomes of plan hosts.
+bio: Camilo is a highly motivated Plant Pathologist that loves ways in which science applies directly to human lives. Passionate Colombian that enjoys bike riding and bread baking.
 
 interests:
 - Plant and fungal genomics
 - Plant immunity
+- Translational plant pathology
 - Cycling
+- Humanism
+- Bread baking
 
 education:
   courses:
@@ -48,9 +51,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chparadaNCSU
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Sl2YB-EAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/cahuparo
@@ -70,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Plant Pathology at NC State University. My research in plant pathology spans pathogen population biology to plant and fungal genomics. I am passionate about translational science and trained in extension. I am currently working on identifying the complete set of intracellular plant immune receptors known as NLR genes in sweetpotato.
+I am a PhD candidate in Plant Pathology at NC State University. My research in spans pathogen population biology to plant and fungal genomics. I am passionate about translational science and trained in extension. I am currently working on identifying the complete set of intracellular plant immune receptors known as NLR genes in sweetpotato among other things 👍🏽
