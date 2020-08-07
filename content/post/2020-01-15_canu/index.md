@@ -20,6 +20,12 @@ image:
   placement: 3
 projects: []
 
+
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+
+
 ---
 
 
