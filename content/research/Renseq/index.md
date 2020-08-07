@@ -10,7 +10,7 @@ image:
   caption: "Photo by Louis Hansel @shotsoflouis on Unsplash"
   focal_point: "Smart"  
   preview_only: false
-  placement: 3
+  placement: 2
 
 
 url_code: ""
