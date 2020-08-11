@@ -24,9 +24,7 @@ interests:
 - Plant and fungal genomics
 - Plant immunity
 - Translational plant pathology
-- Cycling
-- Humanism
-- Bread baking
+- Cycling & bread baking
 
 education:
   courses:
