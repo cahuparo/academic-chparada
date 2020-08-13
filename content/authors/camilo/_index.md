@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Plant Pathology at NC State University. My research in spans pathogen population biology to plant and fungal genomics. I am passionate about translational science and trained in extension. I am currently working on identifying the complete set of intracellular plant immune receptors known as NLR genes in sweetpotato among other things.
+I am a Plant Pathology PhD candidate at NC State University working in the [Vegetable Pathology Lab](https://veggiepathology.wordpress.ncsu.edu/). My research in spans pathogen population biology to plant and fungal genomics. I am passionate about translational science and trained in extension. I am currently working on identifying the complete set of intracellular plant immune receptors known as NLR genes in sweetpotato among other things.
