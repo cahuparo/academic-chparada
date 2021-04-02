@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ncsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Camilo is a highly motivated translational plant pathologist that loves ways in which science applies directly to human lives. Passionate Colombian that enjoys bike riding and bread baking.
+bio: Supported by Foundation for Food and Agriculture and North Carolina SweetPotato Commission.
 
 interests:
 - Decoding plant innate immunity 
