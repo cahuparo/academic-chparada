@@ -43,6 +43,12 @@ education:
   - course: BSc in Biotechnological Engineering
     institution: Universidad Francisco de Paula Santander
     year: 2014
+    
+awards:
+  courses:
+  - course: FFAR fellowship
+    institution: FFAR
+    year: 2018 - present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
