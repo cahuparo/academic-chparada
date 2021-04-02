@@ -18,13 +18,19 @@ organizations:
   url: "https://www.ncsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Camilo is a highly motivated Plant Pathologist that loves ways in which science applies directly to human lives. Passionate Colombian that enjoys bike riding and bread baking.
+bio: Camilo is a highly motivated translational plant pathologist that loves ways in which science applies directly to human lives. Passionate Colombian that enjoys bike riding and bread baking.
 
 interests:
-- Plant and fungal genomics
-- Plant immunity
-- Translational plant pathology
-- Cycling & bread baking
+- Decoding plant innate immunity 
+- Plant pathogen population genomics
+- Polyploid crop genomics 
+- Translational science via extension service
+- Integrated disease management
+- Functional genomics of fungal pathogens
+- Soil-borne pathogen management 
+- Bio-surveillance
+- X-ray computed tomography
+- Biking and bread baking
 
 education:
   courses:
@@ -71,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Plant Pathology PhD candidate at NC State University working in the [Vegetable Pathology Lab](https://veggiepathology.wordpress.ncsu.edu/). My research spans pathogen population biology to plant and fungal genomics. I am passionate about translational science and trained in extension. I am currently working on identifying the complete set of intracellular plant immune receptors known as NLR genes in sweetpotato among other things.
+Plant pathogens persistence in the soil can lead to disease outbreaks occurring year after year if left unmanaged. This can increase production costs and force farmers to rotate to less profitable crops. A warming climate can also increase the overwintering survival of several plant pathogens. Even moderate increase in temperatures can exacerbate infection rates and disease severity in the field. As a translational vegetable pathologist, I employ diverse tools including genomics, bioinformatics, and population genetics to answer scientific questions and translate our findings into solutions for vegetable farmers. I am a Plant Pathology PhD candidate at NC State University working in the [Vegetable Pathology Lab](https://veggiepathology.wordpress.ncsu.edu/).
