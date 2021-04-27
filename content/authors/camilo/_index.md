@@ -27,7 +27,6 @@ interests:
 - Translational science
 - Integrated disease management
 - Functional genomics of fungi
-- Soil-borne pathogen management 
 - X-ray computed tomography
 - Biking and bread baking
 
