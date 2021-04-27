@@ -21,14 +21,13 @@ organizations:
 bio: Supported by Foundation for Food and Agriculture and North Carolina SweetPotato Commission.
 
 interests:
-- Decoding plant innate immunity 
-- Plant pathogen population genomics
+- Decoding plant immunity 
+- Population genomics
 - Polyploid crop genomics 
-- Translational science via extension service
+- Translational science
 - Integrated disease management
-- Functional genomics of fungal pathogens
+- Functional genomics of fungi
 - Soil-borne pathogen management 
-- Bio-surveillance
 - X-ray computed tomography
 - Biking and bread baking
 
