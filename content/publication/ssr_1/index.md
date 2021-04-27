@@ -1,5 +1,5 @@
 ---
-title: "Analysis of microsatellites from transcriptome sequences of _Phytophthora capsici_ and applications for population studies"
+title: "Analysis of microsatellites from transcriptome sequences of *Phytophthora* *capsici* and applications for population studies"
 date: 2018-03-26
 publishDate: 2018-03-26T17:00:43.133486Z
 authors: ["Camilo H. Parada Rojas", "Lina M. Quesada Ocampo "]
