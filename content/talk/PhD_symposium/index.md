@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Advancing our Knowledge of Sweetpotato Resistance: From X-ray Computed Tomography Phenotyping to the NLRome."
-slug: "2021-04-23-mastering-r-for-epi"
+slug: "NCSU_DEPP_PhD_Symposium"
 event: "NC State Plant Pathology Graduate Student Symposium"
 event_url: 
 location: Raleigh, North Carolina
