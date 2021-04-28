@@ -11,7 +11,7 @@ tags:
   - how2do
   - genomics
 
-toc: true  # Show table of contents? true/false
+# toc: true  # Show table of contents? true/false
 # type: docs  # Do not modify.
 # menu:
 #  post:
@@ -22,7 +22,7 @@ projects: []
 
 ---
 ------
-# What is all this about?
+## What is all this about?
 
 This bioinformatic notes include step by step work towards assembling long reads using [canu](https://canu.readthedocs.io/en/latest/). Notice that this how to do notes are based on Henry2 capabilities. Once your sequencing run is complete, the sequencing lab will most likely provide the following files:
 
@@ -42,7 +42,7 @@ This bioinformatic notes include step by step work towards assembling long reads
 
 Subreads represent the region of DNA that was sequenced, depending of how many times the polymerase read that region you may have several subreads for a single genomic region. 
 
-# Prerequisites and installation in HPC
+## Prerequisites and installation in HPC
 
 The following list includes all programs we need to install in the HPC:
 
@@ -63,9 +63,9 @@ spack install canu #Installs canu
 
 ```
 
-# The pipeline using CANU
+## The pipeline using CANU
 
-## 1) Untar sequencing data and convert `subreads.bam` to `subreads.fastq` using `bamtools`
+### 1) Untar sequencing data and convert `subreads.bam` to `subreads.fastq` using `bamtools`
 
 Before unziping sequencing, we need to move the files to the HPC where we will run the pipeline. Use `scp` to move files into HPC. Prepare a job script to acomplish this step with the following task: 
 
@@ -98,7 +98,7 @@ cd SEQUENCING_files
 bamtools convert -format fastq -in your.subreads.bam -out all_your.subreads.fastq
 ```
 
-## 2) Read correction using  `-correct` 
+### 2) Read correction using  `-correct` 
 
 Canu's read correction task will replace the original noisy read sequences with consensus sequences computed from overlapping reads. This task takes a while. It is best to run it by itself. Prepare the following job script:
 
@@ -126,7 +126,7 @@ canu -correct -p assembly_all -d assembly_all_canu_pacbio genomeSize=40m \
 	usegrid=0
 ```
 
-## 3)Read triming using `-trim` 
+### 3)Read triming using `-trim` 
 
 Canu's read trimming task will use overlapping reads to decide what regions of each read are high-quality sequence, and what regions should be trimmed. After trimming, the single largest high-quality chunk of sequence is retained.
 
@@ -158,7 +158,7 @@ canu -trim -p assembly_all -d assembly_all_canu_pacbio genomeSize=40m \
         
 ```
 
-## 4) Assembly with 2.5% error rate
+### 4) Assembly with 2.5% error rate
 
 Finally assembly!
  
