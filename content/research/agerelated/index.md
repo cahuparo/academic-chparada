@@ -14,7 +14,7 @@ image:
 
 
 url_code: ""
-url_pdf: "https://doi.org/10.1094/PHYTO-12-20-0541-R"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 featured: "true"
@@ -40,3 +40,5 @@ Sweetpotatoes are sold in three sizes representing different developmental stage
 Timely fungicide applications could protect slips and developing storage roots in fields with history of *C. fimbriata*. Applications at transplanting and early storage root development could potentially prevent *C. fimbriata* infection in combination with pathogen-free seed.
 
 ![](implication.png)
+
+Check out my publication on this project here: https://doi.org/10.1094/PHYTO-12-20-0541-R
