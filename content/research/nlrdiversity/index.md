@@ -31,7 +31,7 @@ In a proof of concept study, we compared the original genome annotation of 18 pl
 
 ![](slide2.png)
 
-​      We built a phylogeny of complete NLRs from Solanaceae and Convolvulaceae sequenced genomes to test the relationship of NLRs in these two plant families. 
+We built a phylogeny of complete NLRs from Solanaceae and Convolvulaceae sequenced genomes to test the relationship of NLRs in these two plant families. 
 
 ![](slide3.png)
 
