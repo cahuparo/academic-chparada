@@ -38,6 +38,10 @@ subtitle = ""
     tag = "Genomics"
     
   [[content.filter_button]]
+    name = "NLRs"
+    tag = "NLRs"
+    
+  [[content.filter_button]]
     name = "Resistance"
     tag = "Resistance"
   
