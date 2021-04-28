@@ -24,9 +24,9 @@ menu:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: 'Photo by [Tobias Fischer](https://unsplash.com/photos/ljp-ewA23lc)'
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
-  placement: 1
+
 
 projects: []
 
