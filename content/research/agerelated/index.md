@@ -14,7 +14,7 @@ image:
 
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://doi.org/10.1094/PHYTO-12-20-0541-R"
 url_slides: ""
 url_video: ""
 featured: "true"
