@@ -7,7 +7,7 @@ google_fonts = "family=Karla:ital,wght@0,300;0,400;0,500;1,200;1,300;1,400;1,500
 
 # Font families
 heading_font = "Fira Sans"
-body_font = "Karla"
+body_font = "Fira Sans"
 nav_font = "Fira Sans"
 mono_font = "Fira Sans"
 
