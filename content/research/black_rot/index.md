@@ -9,8 +9,8 @@ lastmod: 2020-08-06T10:57:47+02:00
 
 image:
   caption: ""
-  focal_point: "Right"
-  preview_only: true
+  focal_point: "Smart"
+  preview_only: false
   placement: 2
 
 url_code: ""
