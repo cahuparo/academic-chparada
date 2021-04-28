@@ -54,10 +54,10 @@ height = "300px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Understanding sweetpotato immunity and fungal effectors"
+  cta_label = "See my projects"
   cta_url = "https://cahuparo.me/research_main/"
- # cta_icon_pack = "fas"
- # cta_icon = ""
+  cta_icon_pack = "fas"
+  cta_icon = "family tree"
   
   use_pages = true
   pages_title = "Research"
