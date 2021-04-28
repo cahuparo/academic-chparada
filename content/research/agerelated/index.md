@@ -41,4 +41,4 @@ Timely fungicide applications could protect slips and developing storage roots i
 
 ![](implication.png)
 
-Check out my publication on this project here: https://doi.org/10.1094/PHYTO-12-20-0541-R
+Check out my publication on this project [here](https://doi.org/10.1094/PHYTO-12-20-0541-R).
