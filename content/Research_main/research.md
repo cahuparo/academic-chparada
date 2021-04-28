@@ -51,7 +51,7 @@ subtitle = ""
     
   [[content.filter_button]]
     name = "Phytophthora"
-    tag = "Pcapsici"
+    tag = "Phytophthora"
     
   [[content.filter_button]]
     name = "PopGen"
