@@ -10,7 +10,6 @@ image:
   caption: ""
   focal_point: "Smart"
   preview_only: false
-  placement: 2
 
 url_code: ""
 url_pdf: ""
