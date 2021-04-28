@@ -12,21 +12,11 @@ tags:
   - genomics
 
 toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-menu:
-  post:
-    name: canu
-    weight: 1
-
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: 'Photo by [Tobias Fischer](https://unsplash.com/photos/ljp-ewA23lc)'
-# focal_point: Smart
-# preview_only: false
-
+# type: docs  # Do not modify.
+# menu:
+#  post:
+#    name: canu
+#    weight: 1
 
 projects: []
 
