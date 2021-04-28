@@ -42,28 +42,20 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Follow
-  url: https://twitter.com
+  url: https://twitter.com/chparadaNCSU
   icon_pack: fab
   icon: twitter
-links:
-- icon: images
-  icon_pack: fas
-  name: slides
-  url: 
-- icon: github
-  icon_pack: fab
-  name: github
-  url: 
-- icon: r-project
-  icon_pack: fab
-  name: course package
-  url: 
+# links:
+# - icon: images
+#  icon_pack: fas
+#  name: slides
+#  url:  
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+# url_slides:
 
-url_code:
-url_pdf:
+# url_code:
+# url_pdf:
 url_video: https://youtu.be/TBxyjIvVR0Q
 
 # Markdown Slides (optional).
@@ -71,7 +63,7 @@ url_video: https://youtu.be/TBxyjIvVR0Q
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides: ""
+# slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
