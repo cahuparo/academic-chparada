@@ -1,13 +1,13 @@
 ---
-title: "Revealing the sweetpotato resistome"
-summary: "Check out how we plan to reveal the complete sweetpotato NLR repertorie."
+title: "Renseq on hexaploid sweetpotato"
+summary: "Check out how we plan to use RenSeq to reveal the complete sweetpotato NLR catalog"
 authors: [Camilo Parada]
-tags: [Genomics, Sweetpotato]
+tags: [Genomics, Sweetpotato, Resistance, NLRs]
 categories: [Genomics, Sweetpotato, Resistance, NLRs]
 date: 2020-08-06T08:00:20-07:00
 
 image:
-  caption: "16 sweetpotato cultivars"
+  caption: "Diverse sweetpotato cultivars"
   focal_point: "Smart"  
   preview_only: false
 
@@ -21,13 +21,17 @@ featured: "true"
 ---
 ------
 
-### **What is the NLR gene catalog in the hexaploid sweetpotato?** 
+### **Revealing the complete NLR gene catalog in the hexaploid sweetpotato** 
 
 ------
 
-Plants and pathogens exist in a continuum coevolutionary struggle for survival. Over evolutionary time, plants evolved a complex and multilayered immune system to defend from pathogens and communicate with beneficial organisms. Nucleotide-binding domain and leucine-rich repeat (NLR) proteins constitute one of the largest and most studied family of plant resistance proteins. The main goal of this research project is to generate a catalog of NLR genes in the hexaploid sweetpotato. We are applying target sequence capture combined with long read DNA sequencing technology, a technique known as RenSeq, to answer this question. The outcomes of this project will help accelerate breeding efforts for emergent pathogens of sweetpotato. As agriculture moves towards lower input and sustainable practices under a changing climate, it becomes critical to strategize potential scenarios where pathogens spread into new areas or re-emerge more aggressively. A resistance gene repertoire represents an adaptable management tool to develop climate resilient crops.
+Cultivated for its nutritious roots, sweetpotato (*Ipomoea batatas*) is an important staple crop in the tropics, especially in Sub-Saharan Africa, Central America and New Guinea. Sweetpotatoes are highly susceptible to diverse pathogens in the field and postharvest. Breeding sweetpotatoes for resistance remains puzzling due to limited knowledge on the genetic basis of resistance and the hexaploid nature of the crop. Plant intracellular immune receptors known as nucleotide-binding domain leucine-rich repeat receptors (NLR) represent a key component of the plant immune system by mediating plant immune response to pathogen threats. Here, we aimed to catalog NLR diversity in historical (Apache) and contemporary (Covington) sweetpotato cultivars. We used resistance gene enrichment sequencing (RenSeq), a genome reduction approach, to capture and sequence full NLRs. 
 
+![](RenSeq_worflow.jpg)
 
-![](RenSeq_worflow.png)
+A custom designed NLR bait-library of 2,034 targets allowed us to enrich NLR genes with 88% target capture rate. Using PacBio sequencing after RenSeq on genomic DNA, we identified 649 and 833 complete NLRs for Covington and Apache, respectively. 
+
+![](apache_covington.png)
+
 
 
