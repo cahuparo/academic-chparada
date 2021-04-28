@@ -37,7 +37,7 @@ education:
     year: 2017 - present
   - course: MSc in Plant Pathology
     institution: North Carolina State University
-    year: 2015
+    year: 2017
   - course: BSc in Biotechnological Engineering
     institution: Universidad Francisco de Paula Santander
     year: 2014
