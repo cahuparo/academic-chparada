@@ -2,7 +2,7 @@
 name = "allfira"
 
 # Optional Google font URL
-google_fonts = "Heebo:300,400,500|Fira+Sans:300,400,500|Source+Sans+Pro:300"
+google_fonts = "Heebo:300,400,500|Fira+Sans:600,700,800|Source+Sans+Pro:300"
 # old main font: Fira+Sans 
 
 # Font families
