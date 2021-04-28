@@ -17,16 +17,16 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 
 
-[[item]]
-  title = "Site under construction"
-  content = "This website will be ready soon :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
+# [[item]]
+#  title = "Site under construction"
+#    content = "This website will be ready soon :smile:"
+#    align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#5d657a"  # An HTML color value.
-  overlay_img = "slider_1.JPG"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+#    overlay_color = "#5d657a"  # An HTML color value.
+#    overlay_img = "slider_1.JPG"  # Image path relative to your `static/img/` folder.
+#    overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -85,7 +85,32 @@ height = "300px"
   use_pages = true
   pages_title = "Publications"
   pages_type = "publication"
+
+
+[[item]]
+  title = "Recent & Upcoming Talks"
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#5d657a"  # An HTML color value.
+  overlay_img = "slider_6.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Check out my latest talk"
+  cta_url = "https://cahuparo.me/talk/"
+  cta_icon_pack = "fas"
+  cta_icon = "chalkboard-teacher"
   
+  use_pages = true
+  pages_title = "Talks"
+  pages_type = "talks"
+
+
 [[item]]
   title = ""
   content = ""
@@ -108,6 +133,7 @@ height = "300px"
   use_pages = true
   pages_title = "Recent posts"
   pages_type = "post"
+
 
 #[[item]]
 #  title = "Left"
