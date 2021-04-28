@@ -77,7 +77,7 @@ height = "300px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Feature publications"
+  cta_label = "Featured publications"
   cta_url = "https://cahuparo.me/publication/"
   cta_icon_pack = "fas"
   cta_icon = "file-alt"
