@@ -8,15 +8,18 @@ date: 2020-08-07T08:00:20-07:00
 
 image:
   caption: ""
-  focal_point: "Center"
-  preview_only: true
+  focal_point: "Smart"
+  preview_only: false
+  placement: 2
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 featured: "true"
+
 ---
+------
 
 In this project we want to answer the following questions:
 
