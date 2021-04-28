@@ -31,8 +31,6 @@ image:
 projects: []
 
 ---
-![Photo by Daniil Kuželev on Unsplash](assembly.jpg)
-
 ------
 # What is all this about?
 
