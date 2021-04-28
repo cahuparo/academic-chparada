@@ -1,6 +1,6 @@
 ---
 title: "Population biology"
-summary: "We used microsatellite markers to describe *Phytophthora capsici* population structure in the eastern Unite States"
+summary: "We used genome mined microsatellite markers to describe *Phytophthora capsici* population structure in the eastern Unite States"
 authors: [Camilo Parada]
 tags: [Phytophthora, PopGen, Genomics]
 categories: [Phytophthora, PopGen, Genomics]
