@@ -57,7 +57,7 @@ height = "300px"
   cta_label = "See my projects"
   cta_url = "https://cahuparo.me/research_main/"
   cta_icon_pack = "fas"
-  cta_icon = "family-tree"
+  cta_icon = "spa"
   
   use_pages = true
   pages_title = "Research"
