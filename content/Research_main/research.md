@@ -36,10 +36,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "Genomics"
     tag = "Genomics"
+    
+  [[content.filter_button]]
+    name = "Resistance"
+    tag = "Resistance"
   
   [[content.filter_button]]
-    name = "Extension"
-    tag = "Extension"
+    name = "CT scans"
+    tag = "CTscans"
     
   [[content.filter_button]]
     name = "Phytophthora"
