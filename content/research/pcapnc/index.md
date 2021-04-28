@@ -27,3 +27,4 @@ featured: "true"
 
 ![](structure.png)
 
+Understanding the population structure of this important vegetable pathogen will inform the deployment of management strategies in the field. It is all about knowing more to control better! 
