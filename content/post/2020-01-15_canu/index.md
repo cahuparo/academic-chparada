@@ -26,7 +26,7 @@ image:
   caption: 'Photo by [Tobias Fischer](https://unsplash.com/photos/ljp-ewA23lc)'
   focal_point: Center
   preview_only: false
-  placement: 2
+  placement: 1
 
 projects: []
 
