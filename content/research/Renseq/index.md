@@ -10,7 +10,7 @@ image:
   caption: "16 sweetpotato cultivars"
   focal_point: "Smart"  
   preview_only: false
-  placement: 2
+  placement: 1
 
 
 url_code: ""
