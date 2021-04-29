@@ -2,15 +2,12 @@
 name = "allfira"
 
 # Optional Google font URL
-google_fonts = "Heebo:300,400,500|Fira+Sans:300,300i,400,400i,700,700i|Source+Sans+Pro:300"
+google_fonts = "Karla:300,400,500|Fira+Sans:300,300i,400,400i,700,700i|Source+Sans+Pro:300"
 # old main font: Fira+Sans 
 
 # Font families
 heading_font = "Fira Sans"
 body_font = "Fira Sans"
-nav_font = "Fira Sans"
+nav_font = "Karla"
 mono_font = "Fira Sans"
 
-# Font size
-font_size = "20"
-font_size_small = "16"
