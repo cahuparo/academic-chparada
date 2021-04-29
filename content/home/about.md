@@ -15,5 +15,7 @@ author = "camilo"
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["10px", "0", "10px", "0"]
+  
+<a class="twitter-timeline" data-lang="en" data-width="500" data-height="500" data-theme="light" href="https://twitter.com/chparadaNCSU?ref_src=twsrc%5Etfw">Tweets by chparadaNCSU</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 +++
