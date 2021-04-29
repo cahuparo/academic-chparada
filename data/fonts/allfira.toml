@@ -11,3 +11,6 @@ body_font = "Fira Sans"
 nav_font = "IBM Plex Sans"
 mono_font = "Fira Sans"
 
+# Font size
+font_size = "50"
+font_size_small = "40"
