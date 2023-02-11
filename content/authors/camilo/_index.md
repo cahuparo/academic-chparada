@@ -58,7 +58,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:chparada@ncsu.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/chparadaNCSU
+  link: https://twitter.com/cahuparo
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Sl2YB-EAAAAJ&hl=en&oi=ao
