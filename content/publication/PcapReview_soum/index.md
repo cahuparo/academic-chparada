@@ -1,5 +1,5 @@
 ---
-title: "*Phytophthora capsici*, 100 Years Later: Research Mile Markers from 1922 to 2022"
+title: "Phytophthora capsici, 100 Years Later: Research Mile Markers from 1922 to 2022"
 date: 2022-11-19
 publishDate: 2022-11-19T17:00:43.133486Z
 authors: ["Sanogo, S.", "Lamour, K.", "Kousik, S.", "Lozada, D.N.", "Parada Rojas, C.H.", "Quesada-Ocampo, L.", "Wyenandt, C.A.", "Babadoost, M.", "Hausbeck, M.K.", "Hansen, Z."," Ali, E."]
