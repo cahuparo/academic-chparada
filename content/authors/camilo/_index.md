@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student in Plant Pathology
+role: Plant Pathologist
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Plant Pathology
     institution: North Carolina State University
-    year: 2017 - present
+    year: 2017 - 2023
   - course: MSc in Plant Pathology
     institution: North Carolina State University
     year: 2017
@@ -46,7 +46,7 @@ awards:
   courses:
   - course: FFAR fellowship
     institution: FFAR
-    year: 2018 - present
+    year: 2018 - 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
