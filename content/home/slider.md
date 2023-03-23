@@ -55,7 +55,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Project summaries"
-  cta_url = "https://cahuparo.me/research_main/"
+  cta_url = "https://cahuparo.com/research_main/"
   cta_icon_pack = "fas"
   cta_icon = "dna"
   
@@ -78,7 +78,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Featured publications"
-  cta_url = "https://cahuparo.me/publication/"
+  cta_url = "https://cahuparo.com/publication/"
   cta_icon_pack = "fas"
   cta_icon = "file-alt"
   
@@ -102,7 +102,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Check out my latest talk"
-  cta_url = "https://cahuparo.me/talk/"
+  cta_url = "https://cahuparo.com/talk/"
   cta_icon_pack = "fas"
   cta_icon = "chalkboard-teacher"
   
@@ -126,7 +126,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Check out my recent post"
-  cta_url = "https://cahuparo.me/post/"
+  cta_url = "https://cahuparo.com/post/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
   
