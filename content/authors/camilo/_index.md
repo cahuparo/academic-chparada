@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD in Plant Pathology
     institution: North Carolina State University
-    year: 2017 - 2023
+    year: 2023
   - course: MSc in Plant Pathology
     institution: North Carolina State University
     year: 2017
@@ -65,6 +65,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/cahuparo
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8372-6012
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
