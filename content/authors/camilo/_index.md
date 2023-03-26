@@ -22,12 +22,13 @@ bio: Supported by Foundation for Food and Agriculture and North Carolina SweetPo
 
 interests:
 - Decoding plant immunity 
-- Population genomics
+- Pathogen population biology
 - Polyploid crop genomics 
 - Translational science
-- Integrated disease management
-- Functional genomics of fungi
+- Integrated Pest Managment
+- Effector Biology
 - X-ray computed tomography
+- Next Generation Diagnostics
 - Biking and bread baking
 
 education:
