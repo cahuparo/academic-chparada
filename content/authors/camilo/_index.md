@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Plant Pathology
+  - course: PhD in Plant Pathologyssss
     institution: North Carolina State University
     year: 2017 - 2023
   - course: MSc in Plant Pathology
