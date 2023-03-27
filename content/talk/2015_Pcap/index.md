@@ -17,8 +17,8 @@ abstract: "*Phytophthora capsici* is a devastating oomycete that affects solanac
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2014-08-10T08:00:00
-date_end: 2014-08-10T10:00:00
+date: 2015-12-08T08:00:00
+date_end: 2015-12-10T10:00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -49,7 +49,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: content/talk/2015_Pcap/FL_meeting_CP.pptx
+  url: https://docs.google.com/presentation/d/1iNK6DckXCY1D2GPIDt97GgWo3jMHZLls/edit?usp=share_link&ouid=108963055563362912513&rtpof=true&sd=true
 
 # Optional filename of your slides within your talk's folder or a URL.
 # url_slides:
