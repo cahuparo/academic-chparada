@@ -3,7 +3,7 @@
 
 title: "Evaluation of Commercial Hot and Bell
 Pepper cultivars for Resistance to Phytophthora capsici"
-slug: "2016_APS_p"
+slug: "2016_APS"
 event: "APS Annual Meeting"
 event_url: 
 location: Tampa, Florida
