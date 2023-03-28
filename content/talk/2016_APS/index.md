@@ -47,7 +47,7 @@ links:
   icon_pack: fab
   icon: twitter
 # links:
- - icon: images
+- icon: images
   icon_pack: fas
   name: slides
   url: https://drive.google.com/file/d/1jRTf0cbGuz2zc1eSD03nhr0_0KBJX3cz/view?usp=share_link
