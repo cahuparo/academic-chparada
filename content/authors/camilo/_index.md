@@ -31,8 +31,8 @@ interests:
 - Next Generation Diagnostics
 - Biking and bread baking
 
-education:
-  courses:
+appointments:
+  positions:
   - course: PhD in Plant Pathology
     institution: North Carolina State University
     year: 2023
