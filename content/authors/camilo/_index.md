@@ -14,11 +14,11 @@ role: Plant Pathologist
 
 # Organizations/Affiliations
 organizations:
-- name: NC State University
-  url: "https://www.ncsu.edu"
+- name: Oregon State University
+  url: "https://bpp.oregonstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Supported by Foundation for Food and Agriculture and North Carolina SweetPotato Commission.
+bio: Create by Camilo H. Parada-Rojas
 
 interests:
 - Decoding plant immunity 
