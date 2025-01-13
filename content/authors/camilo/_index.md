@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Camilo Parada
+name: Camilo H. Parada-Rojas
 
 # Username (this should match the folder name)
 authors:
@@ -42,12 +42,6 @@ appointments:
   - course: BSc in Biotechnological Engineering
     institution: Universidad Francisco de Paula Santander
     year: 2014
-
-awards:
-  courses:
-  - course: FFAR fellowship
-    institution: FFAR
-    year: 2018 - 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
