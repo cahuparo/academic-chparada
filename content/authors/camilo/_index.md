@@ -20,29 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Create by Camilo H. Parada-Rojas
 
-interests:
-- Decoding plant immunity 
-- Pathogen population biology
-- Polyploid crop genomics 
-- Translational science
-- Integrated Pest Managment
-- Effector Biology
-- X-ray computed tomography
-- Next Generation Diagnostics
-- Biking and bread baking
-
-appointments:
-  positions:
-  - course: PhD in Plant Pathology
-    institution: North Carolina State University
-    year: 2023
-  - course: MSc in Plant Pathology
-    institution: North Carolina State University
-    year: 2017
-  - course: BSc in Biotechnological Engineering
-    institution: Universidad Francisco de Paula Santander
-    year: 2014
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
