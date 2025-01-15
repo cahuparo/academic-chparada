@@ -40,8 +40,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: /files/002_curriculum_vitae.pdf
-- icon: bluesky
-  icon_pack: brands
+- icon: "content/authors/camilo/Bluesky_Logo"
   link: https://bsky.app/profile/cahuparo.bsky.social
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
