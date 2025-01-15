@@ -40,8 +40,8 @@ social:
 - icon: cv
   icon_pack: ai
   link: /files/002_curriculum_vitae.pdf
-- icon: bsky  # or a custom placeholder
-  icon_pack: ai  # may need to use 'fab' or a custom icon pack if supported
+- icon: bluesky
+  icon_pack: brands
   link: https://bsky.app/profile/cahuparo.bsky.social
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
