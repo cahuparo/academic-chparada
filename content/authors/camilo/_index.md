@@ -40,7 +40,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: /files/002_curriculum_vitae.pdf
-- icon: bluesky
+- icon: e671
   icon_pack: fab
   link: https://bsky.app/profile/cahuparo.bsky.social
 
