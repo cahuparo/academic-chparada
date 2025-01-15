@@ -21,13 +21,10 @@ organizations:
 bio: Create by Camilo H. Parada-Rojas
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:chparada@ncsu.edu".
+  link: '#contact'  # For a direct email link, use "mailto:paradarc@oregonstate.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cahuparo
@@ -39,15 +36,13 @@ social:
   link: https://github.com/cahuparo
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-8372-6012
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+  link: https://orcid.org/0000-0002-8372-6012 
 - icon: cv
   icon_pack: ai
   link: /files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "chparada@ncsu.edu"
+email: "paradarc@oregonstate.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -56,5 +51,7 @@ user_groups:
 - Visitors
 ---
 
-I am a translational plant pathologist leveraging advanced genomic tools and field research to address critical agricultural challenges. My research is anchored in creating actionable solutions for growers by linking molecular insights with practical applications. As a postdoctoral scholar at Oregon State University, I focus on developing diagnostic tools, studying pathogen population genomics, and investigating pathogen genomics. Currently, I am co-leading projects to validate CRISPR-based diagnostics for field pathogen detection and contributing to a large-scale effort to sequence and annotate over 100 *Phytophthora* genomes. These initiatives aim to improve disease monitoring and management strategies in diverse agricultural systems. Outside of research, I am passionate about science communication and mentoring. My goal is to inspire the next generation of scientists while advancing sustainable and effective disease management practices.
+I am a translational plant pathologist dedicated to bridging fundamental research with real-world disease management solutions. Originally from Colombia, I earned my B.Sc. in Biotechnological Engineering at Universidad Francisco de Paula Santander before moving to the United States to pursue graduate training in Plant Pathology at North Carolina State University. My early work focused on managing devastating plant pathogens, including Phytophthora capsici in vegetable crops and Ceratocystis fimbriata (black rot) in sweetpotato, where I combined phenotpying in greenhouse and field trials, molecular biology, and innovative genomics to improve disease resistance and management strategies. 
+Currently, as a postdoctoral researcher at Oregon State University, I lead projects that develop CRISPR-based diagnostics, sequence and annotate numerous **Phytophthora** genomes, and enhance bioinformatics tools for pathogen surveillance. I am passionate about bringing scientific advances to growers and extension personel through applied research, on-farm trials, and direct stakeholder engagement. Equally important to me is mentoring the next generation of scientists, especially those from diverse backgrounds, and fostering an inclusive, collaborative environment.
+Through my commitment to translational plant pathology, I strive to ensure that discoveries in genomics, population biology, and diagnostics lead to tangible, sustainable solutions for crop producers in the U.S. and around the globe.
 
