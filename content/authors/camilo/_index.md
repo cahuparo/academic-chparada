@@ -28,9 +28,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cahuparo
-- icon: bluesky
-  icon_pack: fab
-  link: https://twitter.com/cahuparo
+- icon: hashtag
+  icon_pack: fas
+  link: "https://bsky.app/profile/cahuparo.bsky.social"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Sl2YB-EAAAAJ&hl=en&oi=ao
