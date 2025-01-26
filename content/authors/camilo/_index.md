@@ -51,10 +51,8 @@ user_groups:
 - Visitors
 ---
 
-> I am a translational plant pathologist dedicated to bridging fundamental research with real-world disease management solutions. Originally from Colombia, I earned my B.Sc. in Biotechnological Engineering at Universidad Francisco de Paula Santander before moving to the United States to pursue graduate training in Plant Pathology at North Carolina State University. My early work focused on managing devastating plant pathogens, including *Phytophthora capsici* in vegetable crops and *Ceratocystis fimbriata* (black rot) in sweetpotato, where I combined phenotyping in greenhouse and field trials, molecular biology, and  genomics to advance the knowledge of disease resistance.
-> 
-> 
-> Currently, as a postdoctoral scholar at Oregon State University, I lead projects that develop CRISPR-based diagnostics, sequence and annotate numerous *Phytophthora* genomes, and enhance bioinformatics tools for pathogen surveillance. I am passionate about bringing scientific advances to growers and extension personnel through applied research, on-farm trials, and direct stakeholder engagement. Equally important to me is mentoring the next generation of scientists, especially those from diverse backgrounds, and fostering an inclusive, collaborative environment.
-> 
-> Through my commitment to translational plant pathology, I strive to ensure that discoveries in genomics, population biology, and diagnostics lead to tangible, sustainable solutions for crop producers in the U.S. and around the globe.
->
+I am a translational plant pathologist dedicated to bridging fundamental research with real-world disease management solutions. My early work focused on managing devastating plant pathogens, including *Phytophthora capsici* in vegetable crops and *Ceratocystis fimbriata* (black rot) in sweetpotato, where I combined phenotyping in labaoratory, greenhouse and field trials, molecular biology, and  genomics to advance the knowledge of disease resistance.
+  
+Currently, as a postdoctoral scholar at Oregon State University, I am developing CRISPR-based diagnostics assays, sequencing and annotating numerous *Phytophthora* genomes, and enhancing bioinformatics tools for pathogen surveillance. I am passionate about bringing scientific advances to growers and extension personnel through applied research, on-farm trials, and direct stakeholder engagement. Equally important to me is mentoring the next generation of scientist by fostering an inclusive, collaborative environment.
+ 
+Through my commitment to translational plant pathology, I strive to ensure that discoveries in genomics, population biology, and diagnostics lead to tangible, sustainable solutions for crop producers in the U.S. and around the globe.
