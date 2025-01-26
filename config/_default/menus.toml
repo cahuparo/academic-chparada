@@ -13,15 +13,15 @@
 #  url = "post"
 #  weight = 40
 
-#[[main]]
-#  name = "RESEARCH"
-#  url = "/research_main/"
-#  weight = 10
+[[main]]
+  name = "RESEARCH"
+  url = "/research_main/"
+  weight = 10
 
-#[[main]]
-#  name = "PUBLICATIONS"
-#  url = "publication"
-#  weight = 20
+[[main]]
+  name = "PUBLICATIONS"
+  url = "publication"
+  weight = 20
 
 #[[main]]
 #  name = "TALKS"
@@ -35,7 +35,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#[[main]]
-#  name = "CV"
-#  url = "files/cv.pdf"
-#  weight = 70
+[[main]]
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 70
