@@ -53,9 +53,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+"""
 I am a translational plant pathologist dedicated to bridging fundamental research with real-world disease management solutions. My early work focused on managing devastating plant pathogens, including _Phytophthora capsici_ in vegetable crops and _Ceratocystis fimbriata_ (black rot) in sweetpotato, where I combined phenotyping in labaoratory, greenhouse and field trials, molecular biology, and  genomics to advance the knowledge of disease resistance.
   
 Currently, as a postdoctoral scholar at Oregon State University, I am developing CRISPR-based diagnostics assays, sequencing and annotating numerous _Phytophthora_ genomes, and enhancing bioinformatics tools for pathogen surveillance. I am passionate about bringing scientific advances to growers and extension personnel through applied research, on-farm trials, and direct stakeholder engagement. Equally important to me is mentoring the next generation of scientist by fostering an inclusive, collaborative environment.
  
 Through my commitment to translational plant pathology, I strive to ensure that discoveries in genomics, population biology, and diagnostics lead to tangible, sustainable solutions for crop producers in the U.S. and around the globe.
+
+"""
