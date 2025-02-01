@@ -1,7 +1,7 @@
 ---
 
-title: "Population Genomics of *P. capsici* in New York"
-summary: "Genomic analysis of *Phytophthora capsici* isolates from New York for insights into population structure and fungicide resistance."
+title: "Population Genomics of _P. capsici_ in New York"
+summary: "Revealing the genomic architecture of *Phytophthora capsici* isolates from New York"
 authors: [Camilo Parada]
 tags: [Phytophthora, Genomics]
 categories: [Phytophthora, Genomics]
